@@ -13,7 +13,17 @@ Select a Sustainable Development Goal (SDG) that resonates with you and develop 
 
 ### Part 1: SDG Selection and Problem Definition
 - **SDG Selection:** Choose an SDG (e.g., SDG 3: Good Health, SDG 7: Affordable and Clean Energy).
+
+Answer:
+SDG 7 - Affordable and Clean Energy
+SDG 7 aim is to ensure access to affordable, reliable, sustainable, and modern energy for all
+
+
 - **Problem Definition:** Define a specific problem within your chosen SDG that can be addressed using data.
+
+-Energy Access Inequality
+Despite progress in expanding energy access globally, significant disparities remain, particularly in rural and underserved urban areas
+
 
 ### Part 2: Database Design
 - **ERD:** Design an ERD for your project, including entities relevant to your SDG problem.
